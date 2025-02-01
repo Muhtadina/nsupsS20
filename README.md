@@ -6,7 +6,7 @@ In 2024, I had attended **[NSU Problem Solvers Pre-Bootcamp Season 19](https://v
 > **vjudge account : [`tasin49`](https://vjudge.net/user/tasin49)**
 
 ## Segments: 
-- [ ] **[SELECTION CONTEST]()** | <sub> 24/1/2025 </sub>
+- [ ] **[SELECTION CONTEST](https://github.com/Muhtadina/nsupsS20/tree/f4dbf61e4d9123c4bbe906700ee76e54e1958152/SELECTION%20CONTEST)** | <sub> 24/1/2025 </sub>
 - [ ] **[INDIVIDUAL CONTEST](https://github.com/Muhtadina/nsupsS20/tree/47a4fa9d9ed7d640f783873d2abaf33e65d4ca1c/INDIVIDUAL%20CONTEST%201)** | <sub> 31/1/2025 </sub>
 - [ ] **[Week-1: BASIC IMPLEMENTAION]()** | <sub> 31/1/2025 </sub>
 
